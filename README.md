@@ -10,3 +10,8 @@
 2. Sau khi run file thì nhập plain text vào ô input, tiếp theo nhập key vào ô key
 4. Tiếp theo 2 options là encrypt (mã hóa) và decrypt (giãi mã), vui lòng chọn 1 trong 2 theo theo nhu cầu
 5. Cuối cùng nhấn nút Convert thì kết quả sẽ được trả ra tại dòng output nếu option chúng ta chọn encrypt thì sẽ mã hóa input theo key, còn option chúng ta chọn decrypt thì sẽ giải mã theo key
+
+### Hình Ảnh Minh Họa
+![image](https://github.com/Jinbaomin/PlayFair/assets/86481885/017a4b7e-f3b3-4e00-a795-cd932da98f5f)
+
+
