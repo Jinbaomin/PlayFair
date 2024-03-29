@@ -8,7 +8,7 @@
 ## Cách Sử Dụng
 1. Có thể dụng IDE Visual Studio Code để run file
 2. Sau khi run file thì nhập plain text vào ô input, tiếp theo nhập key vào ô key
-4. Tiếp theo có 2 options là encrypt (mã hóa) và decrypt (giãi mã), vui lòng chọn 1 trong 2 theo nhu cầu> Nếu muốn mã hóa plaintext thành ciphertext thì chọn encrypt, còn ngược lại nếu muốn giãi ma từ ciphertext sang plaintext thì chọn descrypt
+4. Tiếp theo có 2 options là encrypt (mã hóa) và decrypt (giãi mã), vui lòng chọn 1 trong 2 theo nhu cầu. Nếu muốn mã hóa plaintext thành ciphertext thì chọn encrypt, còn ngược lại nếu muốn giãi ma từ ciphertext sang plaintext thì chọn descrypt
 5. Cuối cùng nhấn nút Convert thì kết quả sẽ được trả ra tại dòng output nếu option là encrypt thì sẽ mã hóa input theo key, còn option là decrypt thì sẽ giải mã theo key được cung cấp trước đó
 
 ## Hình Ảnh Minh Họa
